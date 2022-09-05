@@ -1,0 +1,26 @@
+body
+{
+  display: flex;
+  justify-content: center;
+}
+.to_do
+{
+  padding: 14px;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  padding-top: 45px;
+  min-height: 78px;
+  min-width: 170px;
+  background-color: bisque;
+  margin: 5px;
+  border: 2px solid black;
+  border-radius: 23px;
+}
+.btn
+{
+
+  width: 59px;
+  height: 26px;
+  margin: 7px;
+}
